@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Task3Weekly8</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="speed">Speed</string>
+    <string name="power">Power</string>
+    <string name="combat">Combat</string>
+    <string name="durability">Durability</string>
+    <string name="strength">Strength</string>
+    <string name="name">Name</string>
+    <string name="program">Program</string>
+    <string name="info_list">Информация о приложении</string>
+    <string name="author">Автор</string>
+    <string name="my_name">Рогачев Владислав</string>
+    <string name="github">GitHub</string>
+    <string name="git_hub">https://github.com/Vlad232008</string>
+    <string name="create_date">Дата создания</string>
+    <string name="data">20.06.22</string>
+    <string name="back">Назад</string>
+    <string name="favorite">Избранное</string>
+</resources>
